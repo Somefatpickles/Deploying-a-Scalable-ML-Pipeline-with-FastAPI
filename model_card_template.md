@@ -14,7 +14,7 @@ This model is intended to classify individuals by predicted income (that is, doe
 
 ## Training Data
 
-This model is trained on data publicly available from the US Census database. The dataset used contains demographic information from the 1994 Census such as age, education, marital-status, race, sex, etc. and can be found at <a href="https://archive.ics.uci.edu/dataset/20/census+income">the UC Irvine Machine Learning Repository</a>.
+This model is trained on data publicly available from the 1994 US Census. The dataset used contains demographic information from the 1994 Census such as age, education, marital-status, race, sex, etc. and can be found at <a href="https://archive.ics.uci.edu/dataset/20/census+income">the UC Irvine Machine Learning Repository</a>.
 
 ## Evaluation Data
 
